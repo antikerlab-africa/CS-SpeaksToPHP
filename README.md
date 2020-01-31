@@ -1,2 +1,2 @@
 # C-SpeaksToPHP
-A Few Tests To Let C# communicate to PHP Scripts via TCP/IP
+A Few Tests To Let PHP communicate with a C# Server
